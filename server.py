@@ -19,7 +19,7 @@
 
 
 
-
+#al salir cierra el server escribiendo  stop
 
 
 
